@@ -1,0 +1,28 @@
+let estudiante = 
+Nombre = 'Gabriel'
+Apellido = 'Caballero'
+
+console.log(Nombre.concat(' ').concat(Apellido));
+
+let estudianteMayus = (Nombre.concat (' ').concat(Apellido))
+console.log(estudianteMayus.toUpperCase());
+
+let estudianteMinus = (Nombre.concat(' ').concat(Apellido))
+console.log(estudianteMinus.toLowerCase());
+
+let = estudiante = (Nombre.concat(' ').concat(Apellido))
+console.log(estudiante.length)
+
+console.log(estudiante.indexOf('Gabriel '))
+console.log(Nombre.charAt(0)); 
+console.log(estudiante.indexOf('Caballero'))
+console.log(Apellido.charAt(8))
+
+
+console.log(estudiante.trimEnd())
+
+
+
+let estaContenido = Nombre === 'Gabriel';
+
+console.log(estaContenido);
